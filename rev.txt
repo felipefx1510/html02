@@ -1,0 +1,36 @@
+1. tags fundamentas:
+    html, head e body
+
+2. tipos de listas no html:
+    ordered list = ol
+    unordered list = ul
+    definition list = dl
+        <li>marcar um item
+
+3. html é linguagem de programação?
+    não, pois não é possível utilizar lógica na construção do código
+
+4. alterar titulo da pagina dentro da head
+    <title>
+
+6. exemplos de input
+    input type="password", "text"
+
+7. diferença entre html 4 e 5
+    semantica aperfeiçoada, suporte a audio e video nativo e formulario aperfeiçoado
+
+8. função do doctype
+    definir a versao do html
+
+9. cabeçalho vai do h1 ate o h6
+    para definir o nivel do cabeçalho do maior para o menor
+
+10. conteudos devem ser inseridos no head ou body
+    body, pois é no corpo do documento que as tags serão interpretadas
+
+11. dois tipos de metodos no http <form method="">
+    post e get
+    post quando há a necessidade de ocultar informações sensíveis na url
+    get quando não há a necessidade de ocultar informações na url
+
+12. 
